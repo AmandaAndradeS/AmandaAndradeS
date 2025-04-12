@@ -21,7 +21,7 @@
 
 ---
 
-### 🐍 GitHub Contributions
+### 🐍 GitHub Contribuições
 
 <p align="center">
   <picture>
