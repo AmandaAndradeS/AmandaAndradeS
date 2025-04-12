@@ -11,7 +11,7 @@
 ---
 
 ### ⭐ Sobre Mim
-<img align="right" alt="Gatinho teclando" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="130" />
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="130" align="right" alt="Gatinho teclando"  />
 
 
 - 🎓 Estudante de **Ciência da Computação** na **Universidade Nove de Julho (UNINOVE)**
@@ -27,7 +27,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg"align="center" alt="github contribution grid snake animation">
   </picture>
 </p>
 
@@ -52,8 +52,8 @@
 
 ---
 
-<img align="right" alt="Gatinho teclando" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="60" />
-<img align="left" alt="Gatinho teclando" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="60" align="right" alt="Gatinho teclando"/>
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="60" align="left" alt="Gatinho teclando" />
 
 <p align="center">
   <i>✨ Obrigada por visitar meu perfil!<br>
