@@ -1,10 +1,33 @@
-<h1 align="center">Bem-vindo ao meu GitHub!</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be90d6&size=35&center=true&vCenter=true&width=1000&lines=‧₊˚Seja+bem-vindo(a)+ao+meu+GitHub!₊˚.)](https://git.io/typing-svg) 
+##
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/fb8b3947-3b67-4bd5-b550-966e97baac9c/53ae9c64b6ad82a7b38383ac309484ea_resized.gif" alt="GIF estilizado" width="250">
+
+## ⭐Sobre Mim
+
+  - 🎓 Estudando **Ciência da Computação** na **Universidade Nove de Julho (UNINOVE)**
+  - 📚 Cursando o **5º** semestre
+  - 💻 Apaixonada por **banco de dados** e organização de informações
+  - 💡 Buscando aprimorar meus conhecimentos
+
+
+
+<p align="right">
+  <img src="URL-do-seu-GIF" alt="" width="180">
 </p>
 
-![53ae9c64b6ad82a7b38383ac309484ea_resized](https://github.com/user-attachments/assets/fb8b3947-3b67-4bd5-b550-966e97baac9c)
+
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmandaAndradeS&theme=material-palenight" alt="Gráfico de atividade do GitHub" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmandaAndradeS&theme=material-palenight" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaAndradeS&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&rank_icon=github&border_radius=10" height="150" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaAndradeS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&border_radius=10" height="150" alt="Linguagens mais usadas" />
+
+</div>
+
+
+
 
 
 <!-- <div style="display: inline_block"><br>
