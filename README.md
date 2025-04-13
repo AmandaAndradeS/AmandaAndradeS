@@ -15,7 +15,7 @@
 
 
 - 🎓 Estudante de **Ciência da Computação** na **Universidade Nove de Julho (UNINOVE)**
-- 📚 Atualmente no **5º semestre**
+- 📚 Atualmente no **5º semestre** (5/8)
 - 💻 Apaixonada por **banco de dados** e organização de informações
 - 💡 Sempre em busca de aprimorar meus conhecimentos
 
