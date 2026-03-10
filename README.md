@@ -1,67 +1,80 @@
-<h3 align="center">✨ Olá, 👋 sou Amanda!</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=9370DB&size=28&center=true&vCenter=true&width=1000&lines=🙋‍♀️+Seja+bem-vindo(a)+ao+meu+GitHub!+✨;%0A🌟+Estudante+de+Ciência+da+Computação+💻;📕+Interessada+em+Ciência+de+Dados+📊" alt="Typing SVG">
-  </a>
-</p>
-
----
-
-### 🌱 Sobre Mim
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="130" align="right" alt="Gatinho teclando"  />
-
-- 🎓 Estudante de **Ciência da Computação** na **Universidade Nove de Julho (UNINOVE)**
-- 📚 Atualmente no **5º semestre** (5/8) | Conclusão em **Dez/2026**
-- 💡 Sempre em busca de aprimorar meus conhecimentos e aprender coisas novas
-- 🚀 Compartilhando projetos interessantes e desafios que enfrento no caminho
-- 🤝 Aberta a colaborações e trocas de conhecimento
-
----
-
-### 👩‍💻 Stack de Conhecimento
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-</div>
-
----
-
-### 🐍 GitHub Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg" alt="Animação das contribuições" />
-  </picture>
-</p>
-
----
-
-### 📊 Minha Jornada
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9EA0&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmandaAndradeS&theme=nightowl" alt="Gráfico de atividade do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAndradeS&layout=compact&langs_count=20&theme=nightowl" alt="Linguagens mais usadas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaAndradeS&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&rank_icon=github&border_radius=10" alt="Estatísticas do GitHub" height="150" />
+  
+<img src="https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Amanda;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG">
+
+</div>
+
+<div align="center">
+  <h3>Estudante de Ciência da Computação | Dados & Banco de Dados | Desenvolvimento</h3>
+  <p>
+    <a href="mailto:amandaoffiice@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/amanda-andrade-silva01/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
 ---
 
+## Sobre Mim
 
-<p align="center">
-  <i>✨ Obrigada por visitar meu perfil!<br>
-  Sinta-se à vontade para explorar meus projetos e contribuições.<br>
-  Volte sempre! 🚀</i>
-</p>
+Sou estudante de **Ciência da Computação pela UNINOVE**, atualmente no penúltimo semestre. Minha paixão reside na interseção entre **Ciência de Dados e Engenharia de Software**, com foco especial em **estruturação, modelagem e organização de bancos de dados**.
+
+Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais, contribuindo com soluções eficientes e aprendendo continuamente com novos desafios.
+
+> 💡 **Objetivo:** Desenvolver soluções tecnológicas escaláveis e otimizar processos de dados.
 
 ---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+---
+
+## Contribuições
+
+<div align="center"> 
+
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake-dark.svg"> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg"> 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmandaAndradeS/AmandaAndradeS/output/github-contribution-grid-snake.svg"> 
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>Obrigado por visitar meu perfil! Estou sempre aberta a novas conexões e oportunidades.</i>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9EA0&height=120&section=footer"/>
